@@ -1,0 +1,20 @@
+{
+  "name": "angular-sticky-footer",
+  "version": "0.0.0",
+  "description": "Sticky footer for Angular",
+  "homepage": "https://github.com/reebalazs/angular-sticky-footer",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:reebalazs/angular-sticky-footer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/reebalazs/angular-sticky-footer/issues"
+  },
+  "author": "Balazs Ree <ree@greenfinity.hu>",
+  "license": "(C) 2015, MIT license",
+  "main": "sticky-footer.js",
+  "dependencies": {
+    "jquery": "*",
+    "babel-runtime": "*"
+  }
+}
