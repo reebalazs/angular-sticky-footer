@@ -1,4 +1,5 @@
-import $ from 'jquery';
+// import $ from 'jquery';
+let $ = require('jquery');
 
 const TIMEOUT = new WeakMap();
 const WINDOW = new WeakMap();
